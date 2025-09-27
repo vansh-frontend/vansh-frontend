@@ -1,29 +1,29 @@
-<!-- Stylish & Animated GitHub Profile README for Vansh Dhalor -->
+<!-- 🔥 Stylish & Animated GitHub Profile README for Vansh Dhalor -->
 
 <!-- ===== Animated Typing Intro ===== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C5AA6A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vansh+Dhalor;Frontend+Developer+%7C+Web+Developer;Crafting+Modern+%26+Responsive+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C5AA6A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vansh+Dhalor;Frontend+Developer+%7C+Web+Developer;Crafting+Modern+%26+Responsive+UI" alt="Typing SVG" />
 </h1>
 
 ---
 
-<!-- ===== About Me Card ===== -->
+<!-- ===== About Me ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-%23c5aa6a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web-Developer-%234c3c3c?style=for-the-badge" />
 </p>
 
 <p align="center">
-  🚀 <b>Results-driven Frontend & Web Developer</b> with expertise in HTML, CSS, JavaScript, React, Tailwind, and Firebase.<br/>
-  🎨 Passionate about building <b>modern, responsive, and stylish user interfaces</b> with smooth animations and a clean UI/UX.<br/>
-  📚 Constantly learning & experimenting with new frontend technologies.
+  🚀 <b>Results-driven Frontend & Web Developer</b> with expertise in <b>React, Tailwind, Firebase</b>.<br/>
+  🎨 Passionate about building <b>modern, responsive, and stylish UIs</b> with animations & smooth UX.<br/>
+  📚 Always learning & experimenting with new frontend technologies.
 </p>
 
 ---
 
 ## 🎨 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,netlify,vercel,mysql" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,netlify,vercel,mysql" alt="Tech Stack"/></a>
 </p>
 
 ---
@@ -42,8 +42,8 @@
 </p>
 
 - 🛍️ **Fashionbycara** → Responsive E-commerce UI with React + Tailwind  
-- 🎶 **Music Lover App** → Music player UI inspired by Spotify  
-- 📈 **Stocks & Trading Site** → Stock tracking UI with charts and live updates  
+- 🎶 **Music Lover App** → Spotify-inspired music player UI  
+- 📈 **Stocks & Trading Site** → Stock tracking UI with live charts  
 
 ---
 
@@ -60,20 +60,27 @@
 ---
 
 ## 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vansh-frontend/vansh-frontend/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+> ⚡ To enable this, you must add a GitHub Action in your repo called `generate-snake.yml`.
 
----
+```yaml
+# .github/workflows/generate-snake.yml
+name: Generate Snake Animation
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="mailto:vanshdhalor4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/vanshdhalor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://vansh-dhalor.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23c5aa6a?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/vansh-frontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+on:
+  schedule: 
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
----
-
-✨ _“Delivering high-quality, modern user interfaces with clean code and passion for design.”_ ✨
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vansh-frontend
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
