@@ -1,4 +1,4 @@
-<!-- 🚀 VANSH DHALOR - ELITE DEVELOPER PROFILE 🚀 -->
+<!-- 🌟 VANSH DHALOR - PROFESSIONAL GITHUB PROFILE 🌟 -->
 
 <div align="center">
 
@@ -7,9 +7,9 @@
 
 </div>
 
-<!-- DYNAMIC HEADER WITH NEON EFFECTS -->
+<!-- DYNAMIC HEADER WITH WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=VANSH%20DHALOR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Elite%20Frontend%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=VANSH%20DHALOR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Web%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <!-- PROFILE VIEWS COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=vansh-frontend&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<!-- CUSTOM BADGES -->
+<!-- STATUS BADGES -->
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff41?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Hire"/>
 <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-ff6b6b?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
 
@@ -25,10 +25,10 @@
 
 ---
 
-<!-- ABOUT SECTION WITH GRADIENT BACKGROUND -->
+<!-- ABOUT SECTION -->
 <div align="center">
 
-## 🌟 ABOUT THE DEVELOPER
+## 🌟 ABOUT ME
 
 <table>
 <tr>
@@ -37,26 +37,27 @@
 ### 🎯 **PROFESSIONAL OVERVIEW**
 ```javascript
 const vanshDhalor = {
+    name: "Vansh Dhalor",
     profession: "Frontend & Web Developer",
     location: "India 🇮🇳",
     education: "BCA @ Chandigarh University",
+    graduationYear: "2022 - 2025",
     currentFocus: ["React", "Tailwind CSS", "Firebase"],
-    passions: ["Clean Code", "UI/UX", "Modern Web"],
-    motto: "Crafting Digital Excellence ✨"
+    motto: "Building Amazing Digital Experiences ✨"
 };
 
-console.log("Building the future, one pixel at a time!");
+console.log("Crafting the future, one pixel at a time!");
 ```
 
 </td>
 <td>
 
 ### 🚀 **CURRENT MISSION**
-- 🔥 Building **next-gen web applications**
+- 🔥 Building **modern web applications**
 - 🎨 Creating **stunning user interfaces**
 - ⚡ Optimizing **performance & accessibility**
 - 🌱 Learning **advanced React patterns**
-- 💡 Exploring **Web3 & Modern Tech**
+- 💡 Exploring **modern web technologies**
 
 </td>
 </tr>
@@ -66,43 +67,82 @@ console.log("Building the future, one pixel at a time!");
 
 ---
 
-<!-- TECH STACK WITH ANIMATED ICONS -->
+<!-- EDUCATION SECTION -->
 <div align="center">
 
-## ⚡ TECH ARSENAL
+## 🎓 EDUCATION
 
-### 🎨 **FRONTEND MASTERY**
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Computer%20Applications-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/UNIVERSITY-Chandigarh%20University-2196F3?style=for-the-badge&logo=university&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/DURATION-2022%20--%202025-FF9800?style=for-the-badge&logo=calendar&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- TECH STACK SECTION -->
+<div align="center">
+
+## ⚡ TECH STACK
+
+### 🎨 **FRONTEND TECHNOLOGIES**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🛠️ **DEVELOPMENT TOOLS**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" />
-</p>
-
-### 📊 **ADDITIONAL SKILLS**
+### 🛠️ **BACKEND & TOOLS**
 <p>
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🚀 **DEPLOYMENT & DATABASE**
+<p>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 📊 **PRODUCTIVITY TOOLS**
+<p>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-<!-- GITHUB STATS DASHBOARD -->
+<!-- GITHUB STATS SECTION -->
 <div align="center">
 
-## 📊 GITHUB PERFORMANCE DASHBOARD
+## 📊 GITHUB STATISTICS
 
 <table>
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF&ring_color=A855F7" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF" height="200"/>
 
 </td>
 <td>
@@ -116,69 +156,11 @@ console.log("Building the future, one pixel at a time!");
 <!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com?user=vansh-frontend&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF" width="600"/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-frontend&custom_title=Vansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FFFFFF&line=A855F7&point=00D9FF&area=true&hide_border=true" width="100%"/>
-
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS SECTION -->
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & HIGHLIGHTS
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- FEATURED PROJECTS SECTION -->
-<div align="center">
-
-## 🌟 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **PORTFOLIO WEBSITE**
-[![Portfolio](https://img.shields.io/badge/LIVE%20DEMO-Visit%20Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
-
-**Modern, responsive portfolio showcasing my work**
-- ⚡ Built with React & Tailwind CSS
-- 🎨 Stunning animations & interactions
-- 📱 Fully responsive design
-- 🚀 Optimized performance
-
-</td>
-<td width="50%">
-
-### 💡 **UPCOMING PROJECTS**
-[![Coming Soon](https://img.shields.io/badge/STATUS-In%20Development-00ff41?style=for-the-badge&logo=github&logoColor=white)](#)
-
-**Exciting projects in the pipeline**
-- 🔥 E-commerce Platform
-- 📊 Data Visualization App
-- 🎮 Interactive Web Games
-- 🌐 SaaS Applications
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- SKILLS PROGRESS BARS -->
+<!-- SKILLS PROGRESS -->
 <div align="center">
 
 ## 📈 SKILL PROFICIENCY
@@ -188,7 +170,7 @@ Frontend Development  ███████████████████�
 React.js             ████████████████████░   90%
 JavaScript           ████████████████████░   88%
 Tailwind CSS         ████████████████████░   92%
-UI/UX Design         ████████████████████░   85%
+HTML/CSS             ████████████████████░   95%
 Problem Solving      ████████████████████░   90%
 ```
 
@@ -196,39 +178,22 @@ Problem Solving      ███████████████████�
 
 ---
 
-<!-- SOCIAL MEDIA LINKS -->
+<!-- PORTFOLIO SECTION -->
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+## 🌟 PORTFOLIO
 
 <table>
 <tr>
 <td align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:vanshdhalor04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
 
-**Professional Inquiries**
-
-</td>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/vanshdhalor)
-
-**Professional Network**
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://vansh-dhalor.netlify.app)
-
-**View My Work**
-
-</td>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/vansh-frontend)
-
-**Source Code**
+**Modern, responsive portfolio showcasing my work**
+- ⚡ Built with React & Tailwind CSS
+- 🎨 Stunning animations & interactions
+- 📱 Fully responsive design
+- 🚀 Optimized performance
 
 </td>
 </tr>
@@ -238,12 +203,45 @@ Problem Solving      ███████████████████�
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONNECT SECTION -->
 <div align="center">
 
-## 🐍 CONTRIBUTION ACTIVITY
+## 🌐 LET'S CONNECT
 
-![Snake Animation](https://raw.githubusercontent.com/vansh-frontend/vansh-frontend/output/github-contribution-grid-snake-dark.svg)
+<table>
+<tr>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-vanshdhalor4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshdhalor4@gmail.com)
+
+**Professional Inquiries**
+
+</td>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor)
+
+**Professional Network**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-View_Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
+
+**Live Projects**
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-frontend)
+
+**Code Repository**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -265,24 +263,11 @@ Problem Solving      ███████████████████�
 </tr>
 </table>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
 </div>
 
 ---
 
-<!-- SPOTIFY PLAYING -->
-<div align="center">
-
-## 🎵 CURRENTLY VIBING TO
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31k6rlzwxkxrysph2z3h4nzkqhqq)
-
-</div>
-
----
-
-<!-- FOOTER WITH WAVE -->
+<!-- FOOTER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
@@ -296,8 +281,3 @@ Problem Solving      ███████████████████�
 **⭐ If you like my work, give it a star! ⭐**
 
 </div>
-
-<!-- HIDDEN CREDITS -->
-<!-- Profile README created with passion by Vansh Dhalor -->
-<!-- Design inspired by modern web aesthetics -->
-<!-- Built for maximum visual impact and professionalism -->
