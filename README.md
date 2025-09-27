@@ -23,7 +23,7 @@
 
 ## 🎨 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,firebase,ejs,mysql,git,github,netlify,vercel&theme=light" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ejs,firebase,git,github,netlify,vercel,mysql,googlesheets,excel&theme=light" alt="Tech Stack Icons" />
 </p>
 
 ---
