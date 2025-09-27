@@ -2,24 +2,20 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Vansh+Dhalor+👋;Frontend+%26+Web+Developer+💻;Building+Amazing+Digital+Experiences+✨;React+%7C+Tailwind+%7C+JavaScript+Expert+🚀" alt="Typing SVG" />
+<div align="center">
+
+# 🌟 VANSH DHALOR 🌟
+### 👨‍💻 Frontend Developer | Web Developer
+
+*Building Amazing Digital Experiences with Modern Web Technologies*
 
 </div>
 
-<!-- DYNAMIC HEADER WITH WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=VANSH%20DHALOR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Web%20Developer&descAlignY=60&descAlign=50" width="100%"/>
-</p>
-
 <div align="center">
 
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=vansh-frontend&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff41?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Hire"/>
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-ff6b6b?style=for-the-badge&logo=react&logoColor=white" alt="Focus"/>
+![Profile Views](https://komarev.com/ghpvc/?username=vansh-frontend&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff41?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-FRONTEND%20DEVELOPMENT-ff6b6b?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
@@ -75,17 +71,11 @@ console.log("Crafting the future, one pixel at a time!");
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Computer%20Applications-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/UNIVERSITY-Chandigarh%20University-2196F3?style=for-the-badge&logo=university&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/DURATION-2022%20--%202025-FF9800?style=for-the-badge&logo=calendar&logoColor=white" />
+
+**🎓 Bachelor of Computer Applications (BCA)**  
+📍 **Chandigarh University**  
+📅 **2022 - 2025**
+
 </td>
 </tr>
 </table>
@@ -101,32 +91,40 @@ console.log("Crafting the future, one pixel at a time!");
 
 ### 🎨 **FRONTEND TECHNOLOGIES**
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </p>
 
 ### 🛠️ **BACKEND & TOOLS**
 <p>
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ### 🚀 **DEPLOYMENT & DATABASE**
 <p>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </p>
 
 ### 📊 **PRODUCTIVITY TOOLS**
 <p>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 </p>
 
 </div>
@@ -142,19 +140,22 @@ console.log("Crafting the future, one pixel at a time!");
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF" height="200"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF)
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="200"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
 
 </td>
 </tr>
 </table>
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=vansh-frontend&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF" width="600"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=vansh-frontend&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=A855F7&fire=00D9FF&currStreakLabel=FFFFFF&sideLabels=A855F7&currStreakNum=00D9FF&sideNums=FFFFFF&dates=FFFFFF)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vansh-frontend&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=00D9FF&point=FFFFFF)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -187,13 +188,9 @@ Problem Solving      ███████████████████�
 <tr>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-vansh--dhalor.netlify.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
 
-**Modern, responsive portfolio showcasing my work**
-- ⚡ Built with React & Tailwind CSS
-- 🎨 Stunning animations & interactions
-- 📱 Fully responsive design
-- 🚀 Optimized performance
+**Live Portfolio Website**
 
 </td>
 </tr>
@@ -212,32 +209,16 @@ Problem Solving      ███████████████████�
 <tr>
 <td align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-vanshdhalor4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshdhalor4@gmail.com)
+[![Email](https://img.shields.io/badge/📧_EMAIL-vanshdhalor4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshdhalor4@gmail.com)
 
-**Professional Inquiries**
-
-</td>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor)
-
-**Professional Network**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-View_Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-dhalor.netlify.app)
-
-**Live Projects**
+**Contact Me**
 
 </td>
 <td align="center">
 
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-frontend)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-vanshdhalor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor)
 
-**Code Repository**
+**Connect With Me**
 
 </td>
 </tr>
@@ -247,37 +228,12 @@ Problem Solving      ███████████████████�
 
 ---
 
-<!-- QUOTE SECTION -->
 <div align="center">
 
-## 💭 DEVELOPER PHILOSOPHY
+### ✨ *"Building Amazing Digital Experiences with Clean Code"* ✨
 
-<table>
-<tr>
-<td>
+**⭐ Thanks for visiting my profile! ⭐**
 
-> ### *"Code is like humor. When you have to explain it, it's bad."*
-> **— Cory House**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-### ✨ *"Building the future, one commit at a time"* ✨
-
-[![Made with ❤️ by Vansh Dhalor](https://img.shields.io/badge/Made%20with%20❤️%20by-Vansh%20Dhalor-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-frontend)
-
----
-
-**⭐ If you like my work, give it a star! ⭐**
+![Made with ❤️](https://img.shields.io/badge/Made%20with%20❤️%20by-Vansh%20Dhalor-A855F7?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
