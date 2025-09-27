@@ -1,74 +1,78 @@
-<!-- Vansh Dhalor - Professional GitHub Profile README -->
+<!-- Stylish & Animated GitHub Profile README for Vansh Dhalor -->
 
-<!-- ===== HEADER BANNER ===== -->
+<!-- ===== Animated Typing Intro ===== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C5AA6A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vansh+Dhalor;Frontend+Developer+%7C+Web+Developer;Crafting+Modern+%26+Responsive+UI" alt="Typing SVG" />
+</h1>
+
+---
+
+<!-- ===== About Me Card ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vansh-frontend/vansh-frontend/main/assets/banner.gif" alt="Vansh Dhalor - Frontend & Web Developer" width="100%" style="max-height:250px; object-fit:cover;" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-%23c5aa6a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Developer-%234c3c3c?style=for-the-badge" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vansh Dhalor</h1>
 <p align="center">
-  <em>Results-driven <b>Frontend Developer</b> & <b>Web Developer</b> with expertise in crafting responsive and dynamic user interfaces.</em>
+  🚀 <b>Results-driven Frontend & Web Developer</b> with expertise in HTML, CSS, JavaScript, React, Tailwind, and Firebase.<br/>
+  🎨 Passionate about building <b>modern, responsive, and stylish user interfaces</b> with smooth animations and a clean UI/UX.<br/>
+  📚 Constantly learning & experimenting with new frontend technologies.
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎯 **Profession**: Frontend Developer & Web Developer  
-- 💻 Building **modern, responsive, and dynamic web apps** with seamless UX  
-- 🌐 Portfolio: [vansh-dhalor.netlify.app](https://vansh-dhalor.netlify.app)  
-- 📍 Based in India  
-- 🔭 Currently learning and growing with **React & Firebase**  
-
----
-
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+## 🎨 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,netlify,vercel,mysql" />
 </p>
 
 ---
 
-## 🎓 Education  
-- **Bachelor of Computer Applications (BCA)**  
-  🎯 Chandigarh University (2022 – 2025)  
+## 🎓 Education
+📖 **Bachelor of Computer Applications (BCA)**  
+🎯 Chandigarh University (2022 – 2025)  
 
 ---
 
-## 📊 GitHub Stats & Animations  
+## 🚀 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=radical&hide_border=true" height="180em"/>
+  <a href="https://vansh-dhalor.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-%23c5aa6a?style=for-the-badge" />
+  </a>
+</p>
+
+- 🛍️ **Fashionbycara** → Responsive E-commerce UI with React + Tailwind  
+- 🎶 **Music Lover App** → Music player UI inspired by Spotify  
+- 📈 **Stocks & Trading Site** → Stock tracking UI with charts and live updates  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-frontend&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-frontend&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
+---
+
+## 🐍 Contribution Animation
 <p align="center">
-  <!-- Snake contribution animation -->
   <img src="https://raw.githubusercontent.com/vansh-frontend/vansh-frontend/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: **vanshdhalor4@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/vanshdhalor](https://www.linkedin.com/in/vanshdhalor)  
-- 🌐 Portfolio: [vansh-dhalor.netlify.app](https://vansh-dhalor.netlify.app)  
-- 🐙 GitHub: [github.com/vansh-frontend](https://github.com/vansh-frontend)  
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:vanshdhalor4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/vanshdhalor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://vansh-dhalor.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23c5aa6a?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/vansh-frontend"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
