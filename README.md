@@ -1,17 +1,12 @@
-<!-- 🌟 VANSH DHALOR - PROFESSIONAL GITHUB PROFILE 🌟 -->
-
+<!-- 🌌 VANSH DHALOR - NEXT-GEN GITHUB PROFILE 🌌 -->
 <div align="center">
 
-<div align="center">
+# ⚡ **VANSH DHALOR**
+### 💻 *Frontend Developer | Web Developer*
 
-# 🌟 VANSH DHALOR 🌟
-### 👨‍💻 Frontend Developer | Web Developer
+> *“Transforming creativity into code — one pixel at a time.”* ✨
 
-*Building Amazing Digital Experiences with Modern Web Technologies*
-
-</div>
-
-<div align="center">
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vansh-frontend&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00ff41?style=for-the-badge&logo=checkmarx&logoColor=white)
@@ -33,16 +28,17 @@
 ### 🎯 **PROFESSIONAL OVERVIEW**
 ```javascript
 const vanshDhalor = {
-    name: "Vansh Dhalor",
-    profession: "Frontend & Web Developer",
-    location: "India 🇮🇳",
-    education: "BCA @ Chandigarh University",
-    graduationYear: "2022 - 2025",
-    currentFocus: ["React", "Tailwind CSS", "Firebase"],
-    motto: "Building Amazing Digital Experiences ✨"
+  name: "Vansh Dhalor",
+  profession: "Frontend & Web Developer",
+  location: "India 🇮🇳",
+  education: "BCA @ Chandigarh University",
+  graduationYear: "2022 - 2025",
+  currentFocus: ["React", "Tailwind CSS", "Firebase"],
+  motto: "Building Amazing Digital Experiences ✨"
 };
 
 console.log("Crafting the future, one pixel at a time!");
+
 ```
 
 </td>
@@ -239,7 +235,3 @@ Problem Solving      ██████████████████�
 </div>
 
 
-CONVERT THIS README.MD file super cool ui
-and best new ui design
-for my github profle
-inn code 
