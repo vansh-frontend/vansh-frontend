@@ -1,88 +1,19 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Frontend Developer</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> I'm Vansh Dhalor</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-frontend" /> </p>
 
-<p>
-  <b>Frontend & Web Developer</b> | BCA Student | <b>Building Amazing Digital Experiences ✨</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-frontend" alt="vansh-frontend" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 💡 About Me
-- 💻 Passionate about responsive, modern UI & interaction design
-- 🌱 Exploring advanced <b>React</b>, <b>Tailwind</b>, and cloud technologies like Firebase & Supabase
-- ⚡ Always up for creative web builds & collaborating on innovative projects
-- 🎓 Pursuing BCA at Chandigarh University (2022 – 2025)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-frontend&show_icons=true&locale=en&layout=compact" alt="vansh-frontend" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&locale=en" alt="vansh-frontend" /></p>
 
-### 🚀 Skills & Tools
-
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="React" src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-<img alt="Firebase" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img alt="Supabase" src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br>
-<img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img alt="Netlify" src="https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img alt="Google Sheets" src="https://img.shields.io/badge/GOOGLE_SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-<img alt="Microsoft Excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
----
-
-### 🌍 My Portfolio
-
-🎨 Explore my projects and experiments →  
-[vanshdhalor.vercel.app](https://vanshdhalor.vercel.app)
-
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7&icon_color=00D9FF&text_color=FFFFFF" alt="Vansh Dhalor GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Vansh Dhalor GitHub Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=vansh-frontend&theme=tokyonight&hide_border=true&border_radius=10" alt="Vansh Dhalor GitHub Streak" />
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"/>
-</div>
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:vanshdhalor4@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-vanshdhalor4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/vanshdhalor" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vanshdhalor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vansh-frontend" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-vansh--frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://vanshdhalor.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-vanshdhalor-580cd9?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h4>⭐ Thanks for visiting my profile ⭐</h4>
-  <p>Made with ❤️ by <a href="https://github.com/vansh-frontend" target="_blank" rel="noopener noreferrer">Vansh Dhalor</a></p>
-</div>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-frontend&" alt="vansh-frontend" /></p>
