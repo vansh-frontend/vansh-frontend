@@ -13,7 +13,7 @@ color:#a5b4fc;
 letter-spacing:0.06em;
 font-size:14px;
 ">
-Frontend Developer · BCA Student · India
+Frontend Developer · MCA Student · BCA Graduate · India
 </p>
 
 <p>
