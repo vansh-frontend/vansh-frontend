@@ -114,6 +114,7 @@ Only things I’ve <b>actually built</b>.
 </div>
 
 <!-- ================= TECH ================= -->
+<!-- ================= TECH ================= -->
 <div style="
 margin-top:32px;
 border-left:4px solid #22c55e;
@@ -124,18 +125,32 @@ padding:28px;
 
 <h2>🛠 Technical Focus</h2>
 
-<pre style="color:#e5e7eb;line-height:1.8;">
-HTML5
-CSS3 / Tailwind CSS
-JavaScript (ES6+)
-React
-EJS
-Firebase / Supabase
-Git & GitHub
-Modern Frontend Practices
-</pre>
+<p style="margin-bottom:18px;">
+Core frontend technologies I actively use while building real projects:
+</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MODERN_FRONTEND_PRACTICES-0F172A?style=for-the-badge"/>
 
 </div>
+
+</div>
+
 
 <!-- ================= PORTFOLIO ================= -->
 <div style="
