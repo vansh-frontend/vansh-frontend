@@ -1,236 +1,34 @@
-<!-- ================= HERO ================= -->
-<div align="center" style="padding:42px 0 30px;">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is vansh dhalor
+=====================================================================================================================================
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2300&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Frontend+%26+Web+Developer;Building+Real+UI+%26+Features;Learning+by+Building+in+Public"
-/>
+Frontend Developer & Web Developer
+----------------------------------
 
-<h2 style="margin-top:14px;">Hi 👋, I'm Vansh Dhalor</h2>
+Detail-oriented Frontend Developer specializing in building responsive, scalable web applications. Proficient in HTML, CSS,
 
-<p style="
-margin-top:8px;
-color:#a5b4fc;
-letter-spacing:0.06em;
-font-size:14px;
-">
-Frontend Developer · MCA Student · BCA Graduate · India
+JavaScript, and React.js with hands-on experience developing clean, user-centric interfaces. Seeking opportunities as a
+
+Frontend or Full-Stack Developer to leverage strong problem-solving skills and technical expertise within a dynamic
+
+professional environment.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://https://vanshdhalor.vercel.app/)
+* ✉️  You can contact me at [vanshfrontend@gmail.com](mailto:vanshfrontend@gmail.com)
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=vansh-frontend&label=Profile%20views&color=8b5cf6&style=flat" />
-</p>
+### Socials
 
-</div>
+<p align="left"> <a href="https://www.github.com/vansh-frontend" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/vanshdhalor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-<hr style="border:none;height:1px;background:#1e293b;margin:34px 0;"/>
+<b>My GitHub Stats</b>
 
-<!-- ================= ABOUT ================= -->
-<div style="
-background:#020617;
-border:1px solid #1e293b;
-border-radius:14px;
-padding:28px;
-">
+<a href="http://www.github.com/vansh-frontend"><img src="https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vansh-frontend's GitHub stats" /></a>
 
-<h2>👋 About Me</h2>
+<a href="http://www.github.com/vansh-frontend"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-frontend&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p>
-I’m a <b>frontend & web developer</b> focused on building
-<b>practical, real-world UI and features</b>.
-I learn by doing — not by watching tutorials endlessly.
-</p>
-
-<ul style="line-height:1.9;">
-  <li>💻 Building modern, responsive interfaces</li>
-  <li>🧠 Understanding how things actually work</li>
-  <li>🚀 Improving through consistent hands-on practice</li>
-</ul>
-
-<p>
-Currently pursuing <b>BCA</b> at Chandigarh University (2022–2025)
-while actively building and sharing my work publicly.
-</p>
-
-</div>
-
-<!-- ================= PURPOSE ================= -->
-<div style="
-margin-top:32px;
-background:#020617;
-border:1px solid #1e293b;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>🎯 Purpose of This Profile</h2>
-
-<p>
-This GitHub profile represents my <b>learning journey in public</b>.
-</p>
-
-<p>
-Instead of only sharing visuals on social platforms,
-I keep all the <b>real, working code</b> here:
-</p>
-
-<ul style="line-height:1.9;">
-  <li>complete implementations</li>
-  <li>frontend experiments</li>
-  <li>feature-level logic</li>
-  <li>small but real web projects</li>
-</ul>
-
-<p>
-Every repository here reflects something I’ve
-<b>built, tested, and understood</b>.
-</p>
-
-</div>
-
-<!-- ================= WORK ================= -->
-<div style="
-margin-top:32px;
-border-left:4px solid #8b5cf6;
-background:#020617;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>📂 What I Build Here</h2>
-
-<ul style="line-height:1.9;">
-  <li>frontend UI components & layouts</li>
-  <li>JavaScript logic & interactions</li>
-  <li>authentication flows</li>
-  <li>React-based interfaces</li>
-  <li>clean, minimal web features</li>
-</ul>
-
-<p>
-No fake demos. No copy-paste projects.<br/>
-Only things I’ve <b>actually built</b>.
-</p>
-
-</div>
-
-<!-- ================= TECH ================= -->
-<!-- ================= TECH ================= -->
-<div style="
-margin-top:32px;
-border-left:4px solid #22c55e;
-background:#020617;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>🛠 Technical Focus</h2>
-
-<p style="margin-bottom:18px;">
-Core frontend technologies I actively use while building real projects:
-</p>
-
-<div style="display:flex;flex-wrap:wrap;gap:10px;">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MODERN_FRONTEND_PRACTICES-0F172A?style=for-the-badge"/>
-
-</div>
-
-</div>
-
-
-<!-- ================= PORTFOLIO ================= -->
-<div style="
-margin-top:32px;
-background:#020617;
-border:1px solid #1e293b;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>🌍 Portfolio</h2>
-
-<p>
-Explore my projects, experiments, and UI work:
-</p>
-
-<p>
-👉 <a href="https://vanshdhalor.vercel.app" target="_blank">
-vanshdhalor.vercel.app
-</a>
-</p>
-
-</div>
-
-<!-- ================= SOCIAL ================= -->
-<div style="
-margin-top:32px;
-border-left:4px solid #a855f7;
-background:#020617;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>🌐 Where I Share My Work</h2>
-
-<h3>📷 Instagram</h3>
-<p>
-Short-form frontend content & UI breakdowns<br/>
-👉 <a href="https://www.instagram.com/frontend.vansh">
-instagram.com/frontend.vansh
-</a>
-</p>
-
-<h3>💼 LinkedIn</h3>
-<p>
-Detailed learnings & professional updates<br/>
-👉 <a href="https://www.linkedin.com/in/vanshdhalor">
-linkedin.com/in/vanshdhalor
-</a>
-</p>
-
-</div>
-
-<!-- ================= CONTACT ================= -->
-<div style="
-margin-top:32px;
-background:#020617;
-border:1px solid #1e293b;
-border-radius:14px;
-padding:28px;
-">
-
-<h2>📬 Connect With Me</h2>
-
-<ul style="line-height:1.9;">
-  <li>💬 discuss frontend topics</li>
-  <li>🤝 collaborate on projects</li>
-  <li>🧠 share feedback or ideas</li>
-</ul>
-
-<p>
-📧 Email: <a href="mailto:vanshdhalor4@gmail.com">
-vanshdhalor4@gmail.com
-</a>
-</p>
-
-</div>
-
-<!-- ================= FOOTER ================= -->
-<div align="center" style="margin:48px 0 24px;color:#64748b;">
-<i>Build. Learn. Share.</i><br/>
-Made with ❤️ by <b>Vansh Dhalor</b>
-</div>
+<a href="https://github.com/vansh-frontend" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
