@@ -1,26 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is vansh dhalor
-=====================================================================================================================================
-<h3>Frontend Developer & Web Developer</h3>
+<div align="center">
 
+# 👋 Hi, I'm Vansh Dhalor
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frontend.vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vanshfrontend) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/vanshfrontend) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshfrontend) 
+### Frontend Developer • Web Developer
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vansh-frontend&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vansh-frontend&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vansh-frontend&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vansh-frontend&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://linkedin.com/in/vanshdhalor">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/frontend.vansh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@vanshfrontend">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/vanshfrontend">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<a href="mailto:vanshfrontend@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=vansh-frontend&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vansh-frontend&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
 
+```js
+const vansh = {
+    role: "Frontend Developer",
+    learning: ["React", "JavaScript", "Backend Development"],
+    passion: "Building beautiful and responsive web applications",
+    location: "India"
+}
+```
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,tailwind,firebase,mysql,supabase,git,github,vscode,vercel,netlify,gcp"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=vansh-frontend&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vansh-frontend&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=vansh-frontend&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vansh-frontend&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🔥 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=vansh-frontend&limit=6&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Keep+Learning...;Keep+Building...;Happy+Coding!+🚀" />
+
+⭐ Don't forget to follow me!
+
+</div>
