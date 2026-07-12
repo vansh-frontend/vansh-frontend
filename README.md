@@ -1,95 +1,26 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is vansh dhalor
+=====================================================================================================================================
+<h3>Frontend Developer & Web Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=VANSH%20DHALOR&fontSize=44&fontAlignY=58&fontColor=58A6FF&animation=fadeIn" width="100%" alt="Vansh Dhalor" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=460&lines=Frontend+Developer;Web+Developer" alt="Typing SVG" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/frontend.vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vanshfrontend) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/vanshfrontend) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshfrontend) 
 
-<br />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vansh-frontend&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vansh-frontend&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vansh-frontend&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://instagram.com/frontend.vansh"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;
-<a href="https://linkedin.com/in/vanshdhalor"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
-<a href="https://youtube.com/@vanshfrontend"><img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>&nbsp;
-<a href="https://codepen.io/vanshfrontend"><img src="https://img.shields.io/badge/CodePen-0D1117?style=flat-square&logo=codepen&logoColor=FFFFFF" alt="CodePen" /></a>&nbsp;
-<a href="mailto:vanshfrontend"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vansh-frontend&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br />
-
-## <img src="https://api.iconify.design/tabler/terminal-2.svg?color=%2358A6FF&width=24&height=24" valign="middle" /> &nbsp;Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=CC6699" />
-<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=8511FA" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
-<img src="https://img.shields.io/badge/DaisyUI-0D1117?style=flat-square&logo=daisyui&logoColor=5A0EF8" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/jQuery-0D1117?style=flat-square&logo=jquery&logoColor=0769AD" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend, Tools &amp; Deployment**
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05033" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=46E3B7" />
-<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%2358A6FF&width=24&height=24" valign="middle" /> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=vansh-frontend&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vansh-frontend&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&layout=compact&include_all_commits=true&count_private=true" width="41%" alt="Top Languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=vansh-frontend&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9" width="68%" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-## <img src="https://api.iconify.design/tabler/trophy.svg?color=%2358A6FF&width=24&height=24" valign="middle" /> &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vansh-frontend&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-## <img src="https://api.iconify.design/tabler/git-commit.svg?color=%2358A6FF&width=24&height=24" valign="middle" /> &nbsp;Top Contributed Repository
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vansh-frontend&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=vansh-frontend&label=Profile+Views&icon=0&color=0D1117" alt="Profile Views" /></a>
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=vansh-frontend&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
