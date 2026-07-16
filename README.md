@@ -23,25 +23,11 @@ Currently, I'm building real-world projects that solve practical problems, impro
 - AI Integration in Web Applications
 
 ## 💻 Tech Stack
-## 💻 Frontend
-
-| HTML5 | CSS3 | Bootstrap | Sass | JavaScript | jQuery | React.js | Next.js | Tailwind CSS |
-|--------|------|-----------|------|------------|---------|----------|----------|---------------|
-
-## ⚙️ Backend
-
-| Node.js | Express.js | REST APIs |
-|----------|------------|-----------|
-
-## 🗄️ Database & Backend Services
-
-| SQL | Firebase | Supabase | Sanity CMS |
-|-----|----------|-----------|-------------|
-
-## 🛠️ Tools & Platforms
-
-| Git | GitHub | Postman | Netlify | Vercel | Render |
-|-----|---------|----------|----------|---------|--------|
+- **Frontend:** HTML5, CSS3, Bootstrap, Sass, JavaScript, jQuery, React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** SQL, Firebase, Supabase
+- **CMS:** Sanity CMS
+- **Tools:** Git, GitHub, Postman, Netlify, Vercel, Render
 
 ## 🎯 2026 Goals
 
