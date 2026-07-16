@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi, I'm **Vansh Dhalor** — a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
+Hi, I'm **Vansh Dhalor**  a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
 
 I specialize in **React.js, Next.js, JavaScript, TypeScript, Firebase, Tailwind CSS, REST APIs, and the MERN stack**. I enjoy turning ideas into production-ready applications while continuously learning backend engineering, cloud technologies, DevOps, system design, and AI.
 
