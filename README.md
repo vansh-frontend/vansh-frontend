@@ -37,12 +37,6 @@ Currently, I'm building real-world projects that solve practical problems, impro
 - 🌍 Contribute to Open Source
 - 💼 Build products used by thousands of users
 
-## 📊 GitHub Stats
-
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=github_dark&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=github_dark)
-
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vanshfrontend
