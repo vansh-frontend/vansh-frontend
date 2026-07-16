@@ -1,10 +1,77 @@
-# 💫 About Me:
-Hi I am Vansh Dhalor👋<br>Frontend Developer | FullStack Developer | Web Developer<br>
+# Hi there 👋
 
+Hi, I'm **Vansh Dhalor** — a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdhalor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshfrontend@gmail.com) 
+I specialize in **React.js, Next.js, JavaScript, TypeScript, Firebase, Tailwind CSS, REST APIs, and the MERN stack**. I enjoy turning ideas into production-ready applications while continuously learning backend engineering, cloud technologies, DevOps, system design, and AI.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Sanity](https://img.shields.io/badge/sanity-%23000000.svg?style=for-the-badge&logo=sanity&logoColor=white)
+Currently, I'm building real-world projects that solve practical problems, improve developer productivity, and help businesses establish a strong digital presence.
 
+## 🚀 Currently Working On
+
+- 🤖 AI-powered chatbot platform for websites
+- 🛒 Production-ready Grocery Delivery Web App
+- 🧩 Developer tools and Chrome Extensions
+- 📱 Responsive, scalable, and high-performance web applications
+
+## 🌱 Currently Learning
+
+- Backend Engineering
+- System Design
+- Docker & Kubernetes
+- AWS & Cloud Infrastructure
+- CI/CD & DevOps
+- AI Integration in Web Applications
+
+## 💻 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- Firebase
+- REST APIs
+
+### Database
+- MongoDB
+- Firestore
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
+- Sanity CMS
+- Vercel
+- Figma
+
+## 🎯 2026 Goals
+
+- 🚀 Become a Production-Ready Full-Stack Engineer
+- ☁️ Master Cloud & DevOps
+- 🏗️ Build scalable SaaS products
+- 🌍 Contribute to Open Source
+- 💼 Build products used by thousands of users
+
+## 📊 GitHub Stats
+
+![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vansh-frontend&show_icons=true&theme=github_dark&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-frontend&layout=compact&theme=github_dark)
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vanshfrontend
+- 🌐 **Portfolio:** https://vanshdhalor.vercel.app
+- 🐙 **GitHub:** https://github.com/vansh-frontend
+- 📧 **Email:** vanshfrontend@gmail.com
+
+---
+
+> *"Always learning. Always building. Always improving."* 🚀
