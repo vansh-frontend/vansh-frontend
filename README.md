@@ -26,6 +26,10 @@
 <br>
 <br>
 
+<p align="center">
+  <img src="./banner.png" alt="Vansh Dhalor - Fullstack Developer" width="100%"/>
+</p>
+
 ### Hi there
 
 Hi, I'm **Vansh Dhalor**, a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
