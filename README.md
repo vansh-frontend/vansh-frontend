@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Hi there 👋
+### Hi there
 
 Hi, I'm **Vansh Dhalor**, a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
 
@@ -34,20 +34,20 @@ I specialize in **React.js, Next.js, JavaScript, TypeScript, Firebase, Tailwind 
 
 Currently, I'm building real-world projects that solve practical problems, improve developer productivity, and help businesses establish a strong digital presence.
 
-Let's Connect 👋🏻
+Let's Connect
 </section>
 
 <hr>
 <section>
 
-### Currently Working On 🚀
+### Currently Working On
 
-- 🤖 AI-powered chatbot platform for websites
-- 🛒 Production-ready Grocery Delivery Web App
-- 🧩 Developer tools and Chrome Extensions
-- ⚡ Responsive, scalable, and high-performance web applications
+-  AI-powered chatbot platform for websites
+-  Production-ready Grocery Delivery Web App
+-  Developer tools and Chrome Extensions
+-  Responsive, scalable, and high-performance web applications
 
-### Currently Learning 📚
+### Currently Learning
 
 - Backend Engineering
 - System Design
@@ -61,7 +61,7 @@ Let's Connect 👋🏻
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h6>Front-End Development 👨‍💻</h6>
+      <h6>Front-End Development </h6>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" />
@@ -74,7 +74,7 @@ Let's Connect 👋🏻
       <img src="https://img.shields.io/badge/TailwindCSS-00bcff?style=plastic&logo=tailwindcss&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <h6>Backend Development 🧱</h6>
+      <h6>Backend Development </h6>
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=plastic&logo=fastapi&logoColor=white" />
@@ -82,13 +82,13 @@ Let's Connect 👋🏻
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h6>Databases 🗃️</h6>
+      <h6>Databases </h6>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" />
       <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <h6>CMS & Tools 🖤</h6>
+      <h6>CMS & Tools </h6>
       <img src="https://img.shields.io/badge/Sanity-F03E2F?style=plastic&logo=sanity&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-f74d27?style=plastic&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" />
@@ -101,13 +101,13 @@ Let's Connect 👋🏻
 </table>
 
 ---
-### 2026 Goals 🎯
+### 2026 Goals 
 
-- 🏗️ Become a Production-Ready Full-Stack Engineer
-- ☁️ Master Cloud & DevOps
-- 🚀 Build scalable SaaS products
-- 🌍 Contribute to Open Source
-- 👥 Build products used by thousands of users
+-  Become a Production-Ready Full-Stack Engineer
+-  Master Cloud & DevOps
+-  Build scalable SaaS products
+-  Contribute to Open Source
+-  Build products used by thousands of users
 
 <hr>
 
@@ -124,15 +124,6 @@ Let's Connect 👋🏻
 </tr>
 </table>
 </section>
-
-### Connect With Me 🤝
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vanshfrontend"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vanshdhalor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/vansh-frontend"><img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" /></a>
-  <a href="mailto:vanshfrontend@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 > *"Always learning. Always building. Always improving."*
