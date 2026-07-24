@@ -3,7 +3,7 @@
 <table align="left">
   <tr>
     <th>
-      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
+      <!-- <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/> -->
       <a href="https://vanshdhalor.vercel.app" />  My Portfolio  
     </th> 
     <th>
