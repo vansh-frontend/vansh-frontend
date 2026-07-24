@@ -8,10 +8,10 @@ Currently, I'm building real-world projects that solve practical problems, impro
 
 ## Currently Working On
 
-- 🤖 AI-powered chatbot platform for websites
-- 🛒 Production-ready Grocery Delivery Web App
-- 🧩 Developer tools and Chrome Extensions
-- 📱 Responsive, scalable, and high-performance web applications
+-  AI-powered chatbot platform for websites
+-  Production-ready Grocery Delivery Web App
+-  Developer tools and Chrome Extensions
+-  Responsive, scalable, and high-performance web applications
 
 ## Currently Learning
 
@@ -31,11 +31,11 @@ Currently, I'm building real-world projects that solve practical problems, impro
 
 ## 2026 Goals
 
-- 🚀 Become a Production-Ready Full-Stack Engineer
-- ☁️ Master Cloud & DevOps
-- 🏗️ Build scalable SaaS products
-- 🌍 Contribute to Open Source
-- 💼 Build products used by thousands of users
+-  Become a Production-Ready Full-Stack Engineer
+-  Master Cloud & DevOps
+-  Build scalable SaaS products
+-  Contribute to Open Source
+-  Build products used by thousands of users
 
 ## Connect With Me
 
