@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 Hi, I'm **Vansh Dhalor**  a Full-Stack Developer from India passionate about building scalable web applications, AI-powered products, and modern user experiences.
 
@@ -6,14 +6,14 @@ I specialize in **React.js, Next.js, JavaScript, TypeScript, Firebase, Tailwind 
 
 Currently, I'm building real-world projects that solve practical problems, improve developer productivity, and help businesses establish a strong digital presence.
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - 🤖 AI-powered chatbot platform for websites
 - 🛒 Production-ready Grocery Delivery Web App
 - 🧩 Developer tools and Chrome Extensions
 - 📱 Responsive, scalable, and high-performance web applications
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Backend Engineering
 - System Design
@@ -22,14 +22,14 @@ Currently, I'm building real-world projects that solve practical problems, impro
 - CI/CD & DevOps
 - AI Integration in Web Applications
 
-## 💻 Tech Stack
+## Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap, Sass, JavaScript, jQuery, React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs
 - **Database:** SQL, Firebase, Supabase
 - **CMS:** Sanity CMS
 - **Tools:** Git, GitHub, Postman, Netlify, Vercel, Render
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 - 🚀 Become a Production-Ready Full-Stack Engineer
 - ☁️ Master Cloud & DevOps
@@ -37,13 +37,13 @@ Currently, I'm building real-world projects that solve practical problems, impro
 - 🌍 Contribute to Open Source
 - 💼 Build products used by thousands of users
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vanshfrontend
-- 🌐 **Portfolio:** https://vanshdhalor.vercel.app
-- 🐙 **GitHub:** https://github.com/vansh-frontend
-- 📧 **Email:** vanshfrontend@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/vanshfrontend
+- **Portfolio:** https://vanshdhalor.vercel.app
+- **GitHub:** https://github.com/vansh-frontend
+- **Email:** vanshfrontend@gmail.com
 
 ---
 
-> *"Always learning. Always building. Always improving."* 🚀
+> *"Always learning. Always building. Always improving."*
